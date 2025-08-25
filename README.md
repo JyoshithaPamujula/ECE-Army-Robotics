@@ -27,5 +27,5 @@
    - LED OFF, Buzzer OFF, Servo stays at 0°.
 
 ### Demo
-- 📸 [Circuit photo](images/Circuit_photo.jpeg)
-- 🎥 [Demo video](videos/Demo_Video.mp4)
+- 📸 [Circuit photo](Circuit_photo.jpeg)
+- 🎥 [Demo video](Demo_Video.mp4)
