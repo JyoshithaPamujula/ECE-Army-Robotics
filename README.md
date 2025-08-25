@@ -28,4 +28,4 @@
 
 ### Demo
 - 📸 [Circuit photo](Circuit_photo.jpeg)
-- 🎥 [Demo video](Demo_Video.mp4)
+- 🎥 [Demo video](Demo_video.mp4)
