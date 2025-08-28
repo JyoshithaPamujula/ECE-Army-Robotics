@@ -66,4 +66,4 @@ void loop() {
 [Circuit Photo](Media/circuit_photo.jpg)
 
 ## Demo Video
-[Watch demo video](Media/video_demo.mp4)
+[Watch demo video](Media/Demo_video.mp4)
