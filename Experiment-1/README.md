@@ -26,7 +26,7 @@
 2. When pushbutton is not pressed:
    - LED OFF, Buzzer OFF, Servo stays at 0°.
   
-**###Code**
+**Code**
 
 See 'Experiment-1/Expt1.ino'
 
