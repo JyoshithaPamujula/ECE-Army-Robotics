@@ -14,7 +14,7 @@ Reads temperature, humidity and ambient light and displays values on the I2C LCD
 See 'Experiment-2/Expt2.ino'
 
 ## Circuit Photo
-[Circuit Photo](Media/Circuit_photo.jpg)
+[Circuit_photo](Media/Circuit_photo.jpg)
 
 ## Demo Video
-[Watch demo video](Media/Demo_video.mp4)
+[Demo_video](Media/Demo_video.mp4)
